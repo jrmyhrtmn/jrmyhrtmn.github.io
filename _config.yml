@@ -18,7 +18,7 @@ email: jeremy@jrmyhrtmn.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm Jeremy Hartman and this is Digital Diatribes, a blog where I will post my thoughts, opinions, and rants, especially rants.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jrmyhrtmn.github.io" # the base hostname & protocol for your site
+url: "https://www.digitaldiatribes.com" # the base hostname & protocol for your site
 twitter_username: jrmyhrtmn
 github_username:  jrmyhrtmn
 
