@@ -13,13 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jeremy Hartman
+title: Digital Diatribes
 email: jeremy@jrmyhrtmn.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the portfolio/blog of computer science and
-  mathematics student Jeremy Hartman. I will showcase my different
-  programming projects as well as share random thoughts from time
-  to time.
+  I'm Jeremy Hartman and this is Digital Diatribes, a blog where I will post my thoughts, opinions, and rants, especially rants.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jrmyhrtmn.github.io" # the base hostname & protocol for your site
 twitter_username: jrmyhrtmn
